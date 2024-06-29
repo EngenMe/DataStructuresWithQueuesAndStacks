@@ -1,0 +1,4 @@
+﻿  DataStructureProject.cpp
+C:\Users\moham\source\repos\DataStructureProject\DataStructureProject\clsDate.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\DataStructureProject\DataStructureProject\clsString.h(43,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  DataStructureProject.vcxproj -> C:\Users\moham\source\repos\DataStructureProject\x64\Debug\DataStructureProject.exe
